@@ -5,11 +5,7 @@
 	<title>03. INSTRUCTIONS FOR DISPLAYING DATA IN PHP. VARIABLES IN PHP</title>
 </head>
 <body>
-	
-</body>
-</html>
-
-<?php 
+	<?php 
 	echo "<h1>How to output text...</h1>";
 	print "<p>...with 'echo' or 'print'.</p>";
  ?>
@@ -42,3 +38,6 @@
   	// и тут я включил комментарий на одной строке
   	echo 'и имеет вес $weight';
    ?>
+</body>
+</html>
+
