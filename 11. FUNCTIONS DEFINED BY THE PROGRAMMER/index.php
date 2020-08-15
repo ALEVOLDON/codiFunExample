@@ -3,6 +3,12 @@
 <head>
 	<meta charset="UTF-8">
 	<title>11.FUNCTIONS DEFINED BY THE PROGRAMMER</title>
+	<style type="text/css">
+		body {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 1.2rem;
+		}
+	</style>
 </head>
 <body>
 	 <?php 
