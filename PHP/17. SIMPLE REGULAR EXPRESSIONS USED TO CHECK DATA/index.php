@@ -5,7 +5,7 @@ function filter($data) {
 	return $data;
 }
 
-function filter($data) {
+function filter_2($data) {
 	$data = trim($data);
 	$data = htmlspecialchars($data);
 	$data = stripslashes($data);
